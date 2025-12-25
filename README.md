@@ -22,7 +22,8 @@ I use data to solve real-world problems through analytics, visualization, and re
 - Built a reproducible R analytics pipeline (SQL → R → visualization)  
 - Developed dashboards and trend analyses for early-life health monitoring  
 
-🔗 **Repository:** https://github.com/adolphecyusa12/newborn-health-monitoring-30-days
+🔗 **Repository:** https://github.com/adolphecyusa12-cell/newborn-health-monitoring-30-days
+
 
 
 ---

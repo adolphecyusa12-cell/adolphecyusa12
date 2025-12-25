@@ -17,12 +17,13 @@ I use data to solve real-world problems through analytics, visualization, and re
 ## 📂 Featured Projects
 
 ### 🩺 30-Day Newborn Health Monitoring System
-**Tools:** SQL, R, Power BI  
-- Designed a relational database to track newborn health indicators over 30 days  
-- Built analytical queries and dashboards for health monitoring  
-- Focused on real-world healthcare data management
+**Tools:** MySQL, R (DBI, dplyr, ggplot2), Power BI  
+- Designed a normalized MySQL database from clinical data  
+- Built a reproducible R analytics pipeline (SQL → R → visualization)  
+- Developed dashboards and trend analyses for early-life health monitoring  
 
-🔗 *Repository link coming soon*
+🔗 **Repository:** https://github.com/adolphecyusa12/newborn-health-monitoring-30-days
+
 
 ---
 

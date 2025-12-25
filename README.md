@@ -24,7 +24,8 @@ A data-driven clinical monitoring system tracking newborn health indicators from
 **Focus:** Growth monitoring, early warning signs, digital health innovation
 
 🔗 Repository:  
-https://github.com/adolphecyusa12/newborn-health-monitoring-30-days
+https://github.com/adolphecyusa12-cell/newborn-health-monitoring-30-days
+
 
 
 

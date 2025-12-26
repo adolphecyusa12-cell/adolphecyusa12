@@ -26,6 +26,17 @@ A data-driven clinical monitoring system tracking newborn health indicators from
 🔗 Repository:  
 https://github.com/adolphecyusa12-cell/newborn-health-monitoring-30-days
 
+## 🎥 Power BI Dashboard Demo (1-Minute Walkthrough)
+
+This short video demonstrates the interactive Power BI dashboard used
+to monitor newborn health indicators over the first 30 days, including
+baby-level filtering, vital signs, weight trends, oxygen saturation,
+and clinical indicators.
+
+[![Power BI Dashboard Demo](https://img.youtube.com/vi/tN6mqUgpqNk/0.jpg)](https://www.youtube.com/watch?v=tN6mqUgpqNk)
+
+
+
 
 
 
